@@ -4,7 +4,7 @@
 Create a command line based number guessing game, where users have to guess a number between 1 and 10. Build the application in a series of iterations, with each iteration being a functional (though incomplete) version of the final application.
 
 ### Skills Required
-- Console I/O
+- Browser I/O
 - Random number generation
 - IDE familiarity
 - Basic types
